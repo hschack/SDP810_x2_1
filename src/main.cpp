@@ -31,6 +31,7 @@ float               FilteredPressure_1   = 0.0;
 float               FilteredTemperatur_1 = 0.0;
 float               FilteredPressure_2   = 0.0;
 float               FilteredTemperatur_2 = 0.0;
+float               FilteredTemperatur_3 = 0.0;
 //
 u_int64_t       previousMillis     = 0; // will store last time LED was updated
 u_int64_t       currentMillis;
