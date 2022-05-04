@@ -1,16 +1,16 @@
 {
 	"folders": [
 		{
-			"name": "SDP_810_1",
-			"path": "..\\..\\SDP_810_1"
-		},
-		{
-			"name": "SPD810_FSM_1",
-			"path": "..\\..\\SPD810_FSM_1"
-		},
-		{
 			"name": "SDP810_x2_1",
 			"path": ".."
+		},
+		{
+			"name": "SDP810_FSM_1",
+			"path": "..\\..\\SDP810_FSM_1"
+		},
+		{
+			"name": "Emty",
+			"path": "..\\..\\Emty"
 		}
 	],
 	"settings": {}
